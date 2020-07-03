@@ -7,6 +7,12 @@ Physically, the microphone is the speaker, and vice versa. This allows for effec
   
 This is particularly for devices that cannot afford to have that small difference in distance between transmitter and receiver, such as in the example of space communication.  
   
+  
+## Basic Circuit Diagram
+![circuit_diag](./assets/circuitdiagram.jpg)
+
+
+
   ## Credits
 By UROP team:  
 Axel, Minxuan, Calvin, Joe, Erlene  
